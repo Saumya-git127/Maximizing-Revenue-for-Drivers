@@ -7,14 +7,6 @@ In the competitive taxi industry, optimizing revenue streams is essential for lo
 This research focuses on leveraging data-driven insights to determine whether there is a significant relationship between the total fare amount and payment type, and if duration of the trips have any affect on fare amount. By analyzing the connection between payment methods (e.g., cash versus credit cards) and fare pricing, we aim to uncover actionable strategies for increasing driver revenue.
 
 
-
-
-##  Tools & Technologies
-
-'Python'
-
-Libraries - `pandas`, `matplotlib`, `seaborn`, `scipy`, `statsmodel`, `sklearn`
-
 ## Objective
 The primary goal of this project is to conduct a hypothesis test to examine whether the method of payment influences total fare amounts, and regression analysis to predict whether trip duration affects fare amounts. Using Python for hypothesis testing, descriptive statistics, and linear regression, we aim to answer the following:
 
@@ -23,6 +15,12 @@ Are customers who pay via credit cards associated with higher fare amounts compa
 Does trip duration influence fare amounts?
 
 Can insights from payment trends guide strategies for encouraging higher-revenue payment methods without impacting customer satisfaction?
+
+##  Tools & Technologies
+
+'Python'
+
+Libraries - `pandas`, `matplotlib`, `seaborn`, `scipy`, `statsmodel`, `sklearn`
 
 ## Research Question
 Does the method of payment have a significant impact on the total fare amount?
